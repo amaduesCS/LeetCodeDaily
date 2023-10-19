@@ -7,6 +7,6 @@ class Solution {
             int index =  c - 'a' + 1;
 
         }
-
+        return null;
     }
 }
